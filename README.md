@@ -12,7 +12,7 @@ Roblox açılıyor (oyun da normal pingle çalışıyor) ama **site ve uygulamad
 
 ## Sebep
 
-1 Kasım 2026 itibarıyla `tr.rbxcdn.com` için Cloudflare (`1.1.1.1`), Google (`8.8.8.8`) ve bir ev modeminin DNS'i IP adresi döndürmüyordu. `t0.rbxcdn.com` ve diğer `tN.rbxcdn.com` adresleri ise normal çözülüyordu (Amazon CloudFront). Hiçbir DNS sunucusu cevap vermediği için DNS değiştirmek ya da DPI aracı kullanmak çözmüyor. Kaydın neden boş olduğu bilinmiyor.
+10 ekim 2026 itibarıyla `tr.rbxcdn.com` için Cloudflare (`1.1.1.1`), Google (`8.8.8.8`) ve bir ev modeminin DNS'i IP adresi döndürmüyordu. `t0.rbxcdn.com` ve diğer `tN.rbxcdn.com` adresleri ise normal çözülüyordu (Amazon CloudFront). Hiçbir DNS sunucusu cevap vermediği için DNS değiştirmek ya da DPI aracı kullanmak çözmüyor. Kaydın neden boş olduğu bilinmiyor.
 
 ## Ne yapıyor?
 
